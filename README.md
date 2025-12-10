@@ -1,4 +1,14 @@
-## Hi there 👋
+### Projects Directory
+
+Access Repositories by Category:
+
+[![](https://img.shields.io/badge/📂_ANR_Projects-0052CC?style=for-the-badge)](https://github.com/john-vanhoesen?tab=repositories&q=topic%3Avt-anr)
+
+[![](https://img.shields.io/badge/📂_VCGI_Projects-E65100?style=for-the-badge)](https://github.com/john-vanhoesen?tab=repositories&q=topic%3Avt-vcgi)
+
+[![](https://img.shields.io/badge/📂_VEM_Projects-E65100?style=for-the-badge)](https://github.com/john-vanhoesen?tab=repositories&q=topic%3Avt-vem)
+
+
 
 <!--
 **john-vanhoesen/john-vanhoesen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
