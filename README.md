@@ -15,13 +15,13 @@ A simple directory and navigation hub for my GitHub contributions. rojects are o
 
 ## Following
 
-### 🏛️ State of Vermont Partners
+### State of Vermont Partners
 | User / Org | Dept / Role | Link |
 | :--- | :--- | :--- |
 | **VCGI** | Center for Geographic Information | [View Profile](https://github.com/vcgi) |
 | **VTrans** | Vermont Agency of Transportation | [View Profile](https://github.com/vtrans) |
 
-### 🌍 External Resources
+### External Resources
 | User | Org | Link |
 | :--- | :--- | :--- |
 | **UVM** | Vermont Open Source Program Office | [View Profile](https://github.com/VERSO-UVM) |
